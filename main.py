@@ -105,7 +105,7 @@ for person in invited_people:
         
         
 
-invited_people = ['Abebe','kebede','dawit', 'john','ali']
+invited_people = ['kebede','dawit', 'john','ali']
 
 Working dir / unstaged
 
