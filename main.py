@@ -18,7 +18,7 @@ for person in invited_people:
 #     # out ->  
 
 
-ls = ['Geremew', 'Ayele']
+ls = ['Geremew']
 # num_of_invited_people = len(invited_people)
 
 # for i in range(num_of_invited_people):
