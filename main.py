@@ -17,6 +17,8 @@ for person in invited_people:
     print(f"Hello {person.capitalize()} , you are invited to the wedding")
 #     # out ->  
 
+
+ls = ['Geremew']
 # num_of_invited_people = len(invited_people)
 
 # for i in range(num_of_invited_people):
@@ -107,10 +109,6 @@ for person in invited_people:
 
 invited_people = ['kebede','dawit', 'john','ali']
 
-Working dir / unstaged
 
-Staged
-
-Commited
 
 
