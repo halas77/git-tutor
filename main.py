@@ -3,7 +3,7 @@
 # list #
 # -> Example: to send a wedding letter for many people
 
-invited_people = ['kebede', 'john', 'dawit', 'ali']
+invited_people = ['Abebe','kebede', 'john', 'dawit', 'ali']
 # print(invited_people)
 
 # # out -  ['abebe', 'kebede', 'john', 'dawit', 'ali']
@@ -107,7 +107,7 @@ for person in invited_people:
 
 
 
-Working dir
+Working dir / unstaged
 
 Staged
 
